@@ -31,9 +31,11 @@ function toVersion(release, app) {
   if (app.tagPrefix && version.startsWith(app.tagPrefix)) version = version.slice(app.tagPrefix.length);
   version = version.replace(/^v/i, "");
   const body = (release.body || "").trim().split(/\r?\n/)[0] || `Versión ${version}`;
+  const published = release.published_at || release.created_at || "";
   return {
+    _sort: published,
     version: version || "0.0.0",
-    date: (release.published_at || release.created_at || "").slice(0, 10),
+    date: published.slice(0, 10),
     localizedDescription: body.slice(0, 400),
     downloadURL: asset.browser_download_url,
     size: asset.size,
@@ -50,7 +52,8 @@ async function buildApp(app) {
         .filter((r) => !r.draft && !r.prerelease)
         .map((r) => toVersion(r, app))
         .filter(Boolean)
-        .sort((a, b) => (a.date < b.date ? 1 : -1));
+        .sort((a, b) => (a._sort < b._sort ? 1 : a._sort > b._sort ? -1 : 0));
+      versions.forEach((v) => delete v._sort);
     }
   }
   if (versions.length === 0 && app.fallbackVersion) {
