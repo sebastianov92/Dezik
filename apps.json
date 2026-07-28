@@ -1,0 +1,59 @@
+{
+  "name": "Dezik",
+  "identifier": "com.dezik.source",
+  "subtitle": "Apps que estamos construyendo en Dezik.",
+  "description": "Fuente oficial de Dezik para AltStore y SideStore. Aquí publicamos las apps iOS en las que estamos trabajando para instalarlas por sideload.",
+  "iconURL": "https://raw.githubusercontent.com/REPLACE_ME_USER/Dezik/main/assets/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/REPLACE_ME_USER/Dezik/main/assets/icon.png",
+  "website": "https://dezik.app",
+  "tintColor": "F22539",
+  "featuredApps": [
+    "com.dezik.asista",
+    "com.dezik.crona"
+  ],
+  "apps": [
+    {
+      "name": "Asista",
+      "bundleIdentifier": "com.dezik.asista",
+      "developerName": "Dezik",
+      "subtitle": "Reclamos de seguros médicos, local-first.",
+      "localizedDescription": "Asista gestiona reclamos de seguros médicos de forma local en tu dispositivo: formularios, reportes CSV/ZIP y envío por correo. Sin servidores intermedios.",
+      "iconURL": "https://raw.githubusercontent.com/REPLACE_ME_USER/Dezik/main/apps/asista/icon.png",
+      "tintColor": "F22539",
+      "category": "productivity",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-28",
+          "localizedDescription": "Primera versión de sideload.",
+          "downloadURL": "https://github.com/REPLACE_ME_USER/Dezik/releases/download/asista-1.0.0/Asista.ipa",
+          "size": 0,
+          "minOSVersion": "16.0"
+        }
+      ]
+    },
+    {
+      "name": "Crona",
+      "bundleIdentifier": "com.dezik.crona",
+      "developerName": "Dezik",
+      "subtitle": "Programa mensajes de WhatsApp.",
+      "localizedDescription": "Crona programa y automatiza mensajes de WhatsApp conectándose a tu backend. Cliente iOS del ecosistema Crona.",
+      "iconURL": "https://raw.githubusercontent.com/REPLACE_ME_USER/Dezik/main/apps/crona/icon.png",
+      "tintColor": "F22539",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-07-28",
+          "localizedDescription": "Primera versión de sideload.",
+          "downloadURL": "https://github.com/REPLACE_ME_USER/Dezik/releases/download/crona-1.0.0/Crona.ipa",
+          "size": 0,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
