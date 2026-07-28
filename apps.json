@@ -18,7 +18,7 @@
       "developerName": "Dezik",
       "subtitle": "Programa mensajes de WhatsApp.",
       "localizedDescription": "Crona programa y automatiza mensajes de WhatsApp conectándose a tu backend. Cliente iOS del ecosistema Crona.",
-      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps/crona/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps/crona/icon-v2.png",
       "tintColor": "35C85C",
       "category": "utilities",
       "screenshotURLs": [],
@@ -52,7 +52,7 @@
           "date": "2026-07-28",
           "localizedDescription": "• Corrección del icono",
           "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.2.2/Crona.ipa",
-          "size": 5146934,
+          "size": 5165538,
           "minOSVersion": "16.0"
         },
         {
