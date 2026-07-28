@@ -8,10 +8,191 @@
   "website": "https://dezik.app",
   "tintColor": "F22539",
   "featuredApps": [
-    "com.dezik.asista",
-    "com.dezik.crona"
+    "com.dezik.crona",
+    "com.dezik.asista"
   ],
   "apps": [
+    {
+      "name": "Crona",
+      "bundleIdentifier": "com.dezik.crona",
+      "developerName": "Dezik",
+      "subtitle": "Programa mensajes de WhatsApp.",
+      "localizedDescription": "Crona programa y automatiza mensajes de WhatsApp conectándose a tu backend. Cliente iOS del ecosistema Crona.",
+      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps/crona/icon.png",
+      "tintColor": "35C85C",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-07-28",
+          "localizedDescription": "• Enviar stickers",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.1.1/Crona.ipa",
+          "size": 7783502,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.0",
+          "date": "2026-07-28",
+          "localizedDescription": "• Biblioteca de stickers",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.2.0/Crona.ipa",
+          "size": 7926360,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.1",
+          "date": "2026-07-28",
+          "localizedDescription": "• Icono nuevo",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.2.1/Crona.ipa",
+          "size": 2296,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.2.2",
+          "date": "2026-07-28",
+          "localizedDescription": "• Corrección del icono",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.2.2/Crona.ipa",
+          "size": 5146934,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.8",
+          "date": "2026-07-22",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.7...v1.0.8",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.8/Crona.ipa",
+          "size": 7515874,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.9",
+          "date": "2026-07-22",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.8...v1.0.9",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.9/Crona.ipa",
+          "size": 7532752,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.10",
+          "date": "2026-07-22",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.9...v1.0.10",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.10/Crona.ipa",
+          "size": 7545578,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.11",
+          "date": "2026-07-22",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.10...v1.0.11",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.11/Crona.ipa",
+          "size": 7545581,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.12",
+          "date": "2026-07-22",
+          "localizedDescription": "• Se acabaron los permisos en cada actualización",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.12/Crona.ipa",
+          "size": 7545469,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.13",
+          "date": "2026-07-22",
+          "localizedDescription": "• La sesión vuelve al llavero del sistema",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.13/Crona.ipa",
+          "size": 7546830,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.14",
+          "date": "2026-07-22",
+          "localizedDescription": "• Barra superior consistente en Mac",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.14/Crona.ipa",
+          "size": 7547998,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.15",
+          "date": "2026-07-22",
+          "localizedDescription": "• Barra lateral",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.15/Crona.ipa",
+          "size": 7547999,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2026-07-22",
+          "localizedDescription": "• Varios mensajes de una sola vez (split)",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.1.0/Crona.ipa",
+          "size": 7779342,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2026-07-21",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.1...v1.0.2",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.2/Crona.ipa",
+          "size": 7275616,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.3",
+          "date": "2026-07-21",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.2...v1.0.3",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.3/Crona.ipa",
+          "size": 7384141,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.4",
+          "date": "2026-07-21",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.3...v1.0.4",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.4/Crona.ipa",
+          "size": 7483431,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.5",
+          "date": "2026-07-21",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.4...v1.0.5",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.5/Crona.ipa",
+          "size": 7493723,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.6",
+          "date": "2026-07-21",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.5...v1.0.6",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.6/Crona.ipa",
+          "size": 7492855,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.7",
+          "date": "2026-07-21",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.6...v1.0.7",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.7/Crona.ipa",
+          "size": 7493062,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.0",
+          "date": "2026-07-20",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/commits/v1.0.0",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.0/Crona.ipa",
+          "size": 7215447,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2026-07-20",
+          "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.0...v1.0.1",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.1/Crona.ipa",
+          "size": 7177721,
+          "minOSVersion": "16.0"
+        }
+      ]
+    },
     {
       "name": "Asista",
       "bundleIdentifier": "com.dezik.asista",
@@ -26,29 +207,8 @@
         {
           "version": "1.0.0",
           "date": "2026-07-28",
-          "localizedDescription": "Primera versión de sideload.",
-          "downloadURL": "https://github.com/sebastianov92/Dezik/releases/download/asista-1.0.0/Asista.ipa",
-          "size": 0,
-          "minOSVersion": "16.0"
-        }
-      ]
-    },
-    {
-      "name": "Crona",
-      "bundleIdentifier": "com.dezik.crona",
-      "developerName": "Dezik",
-      "subtitle": "Programa mensajes de WhatsApp.",
-      "localizedDescription": "Crona programa y automatiza mensajes de WhatsApp conectándose a tu backend. Cliente iOS del ecosistema Crona.",
-      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps/crona/icon.png",
-      "tintColor": "35C85C",
-      "category": "utilities",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2026-07-28",
-          "localizedDescription": "Primera versión de sideload.",
-          "downloadURL": "https://github.com/sebastianov92/Dezik/releases/download/crona-1.0.0/Crona.ipa",
+          "localizedDescription": "Aún sin release publicado.",
+          "downloadURL": "https://github.com/sebastianov92/Asista/releases",
           "size": 0,
           "minOSVersion": "16.0"
         }
