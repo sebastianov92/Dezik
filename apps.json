@@ -205,11 +205,11 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "0.1.0",
           "date": "2026-07-28",
-          "localizedDescription": "Aún sin release publicado.",
-          "downloadURL": "https://github.com/sebastianov92/Asista/releases",
-          "size": 0,
+          "localizedDescription": "- Escaneo de documentos (VisionKit) → PDFs livianos y bien nombrados.",
+          "downloadURL": "https://github.com/sebastianov92/asista/releases/download/v0.1.0/Asista.ipa",
+          "size": 1469101,
           "minOSVersion": "16.0"
         }
       ]
