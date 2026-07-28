@@ -56,6 +56,14 @@
           "minOSVersion": "16.0"
         },
         {
+          "version": "1.2.3",
+          "date": "2026-07-28",
+          "localizedDescription": "• Corrección de instalación",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.2.3/Crona.ipa",
+          "size": 5124875,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.8",
           "date": "2026-07-22",
           "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/compare/v1.0.7...v1.0.8",
