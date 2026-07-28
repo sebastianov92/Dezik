@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#35C85C"/>
+  <g fill="#ffffff">
+    <!-- speech bubble: outer pill + tail with inner pill punched out (evenodd) -->
+    <path fill-rule="evenodd" d="
+      M385,250 H639
+      A235,235 0 0 1 639,720
+      H560
+      L470,880
+      L470,720
+      H385
+      A235,235 0 0 1 385,250 Z
+      M415,375
+      A110,110 0 0 0 415,595
+      H609
+      A110,110 0 0 0 609,375 Z"/>
+  </g>
+  <!-- clock hands (X) -->
+  <g stroke="#ffffff" stroke-linecap="round" fill="none">
+    <line x1="452" y1="560" x2="618" y2="386" stroke-width="22"/>
+    <line x1="452" y1="452" x2="548" y2="548" stroke-width="22"/>
+  </g>
+  <circle cx="512" cy="485" r="17" fill="#ffffff"/>
+  <circle cx="512" cy="485" r="6" fill="#35C85C"/>
+</svg>

@@ -13,7 +13,7 @@
 Copia esta URL en **AltStore** o **SideStore** → *Browse* → *Sources* → **+**:
 
 ```
-https://raw.githubusercontent.com/REPLACE_ME_USER/Dezik/main/apps.json
+https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps.json
 ```
 
 ## Apps
@@ -36,13 +36,13 @@ https://raw.githubusercontent.com/REPLACE_ME_USER/Dezik/main/apps.json
 
 ## Setup del repo
 
-Reemplaza `REPLACE_ME_USER` por tu usuario/organización de GitHub en:
+Reemplaza `sebastianov92` por tu usuario/organización de GitHub en:
 
 - `apps.json` (`iconURL`, `headerURL`, todas las `downloadURL`)
 - este `README.md`
 
 ```bash
-grep -rl REPLACE_ME_USER . | xargs sed -i '' 's/REPLACE_ME_USER/tu-usuario/g'
+grep -rl sebastianov92 . | xargs sed -i '' 's/sebastianov92/tu-usuario/g'
 ```
 
 ## Estructura
