@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.3",
+          "date": "2026-07-30",
+          "localizedDescription": "- El scroll ahora ancla la barra Texto/Foto/Voz/Sticker sobre el teclado (antes solo el",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.4.3/Crona.ipa",
+          "size": 5214872,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.2",
           "date": "2026-07-30",
           "localizedDescription": "La primera vez el selector es single (un toque elige y cierra) y la toolbar muestra",
