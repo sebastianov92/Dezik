@@ -2,7 +2,7 @@ name: Update source
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 min: revisa releases y actualiza apps.json
+    - cron: "*/5 * * * *"    # cada 5 min (mínimo GitHub): revisa releases y actualiza apps.json
   workflow_dispatch:          # botón "Run workflow" manual
   repository_dispatch:        # trigger instantáneo desde el repo de una app
     types: [update-source]
