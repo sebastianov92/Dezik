@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.4",
+          "date": "2026-08-01",
+          "localizedDescription": "- La barra Texto/Foto/Voz/Sticker se fija con safeAreaInset(.bottom): siempre visible sobre",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.4.4/Crona.ipa",
+          "size": 5216401,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.3",
           "date": "2026-07-30",
           "localizedDescription": "- El scroll ahora ancla la barra Texto/Foto/Voz/Sticker sobre el teclado (antes solo el",
