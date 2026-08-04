@@ -24,6 +24,22 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.6",
+          "date": "2026-08-04",
+          "localizedDescription": "Server:",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.4.6/Crona.ipa",
+          "size": 5249589,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.4.5",
+          "date": "2026-08-04",
+          "localizedDescription": "Batch app-side de la Fase 1 del roadmap:",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.4.5/Crona.ipa",
+          "size": 5238331,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.4",
           "date": "2026-08-01",
           "localizedDescription": "- La barra Texto/Foto/Voz/Sticker se fija con safeAreaInset(.bottom): siempre visible sobre",
