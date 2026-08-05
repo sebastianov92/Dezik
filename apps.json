@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.2",
+          "date": "2026-08-05",
+          "localizedDescription": "- Variables con chips: componente VariableChips reutilizable para insertar",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.2/Crona.ipa",
+          "size": 5338554,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.5.1",
           "date": "2026-08-05",
           "localizedDescription": "- Historial: la confirmación de borrar pasa de confirmationDialog (hoja rara) a alert normal.",
