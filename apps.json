@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.7",
+          "date": "2026-08-05",
+          "localizedDescription": "- Historial: borrar ahora pide confirmación (además de allowsFullSwipe:false), a prueba de",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.4.7/Crona.ipa",
+          "size": 5255911,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.6",
           "date": "2026-08-04",
           "localizedDescription": "Server:",
