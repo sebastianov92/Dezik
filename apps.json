@@ -24,6 +24,22 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.0",
+          "date": "2026-08-05",
+          "localizedDescription": "App (batch 2 de F2):",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.0/Crona.ipa",
+          "size": 5291099,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.4.8",
+          "date": "2026-08-05",
+          "localizedDescription": "Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.4.8/Crona.ipa",
+          "size": 5257033,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.4.7",
           "date": "2026-08-05",
           "localizedDescription": "- Historial: borrar ahora pide confirmación (además de allowsFullSwipe:false), a prueba de",
