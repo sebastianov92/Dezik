@@ -24,6 +24,30 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.7",
+          "date": "2026-08-06",
+          "localizedDescription": "- Fotos: se endereza la orientación EXIF horneándola en los píxeles antes de subir",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.7/Crona.ipa",
+          "size": 5375759,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.5.6",
+          "date": "2026-08-06",
+          "localizedDescription": "- TemplateEditView usa el mismo editor de partes que el compositor: texto + foto/video + nota",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.6/Crona.ipa",
+          "size": 5365894,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.5.5",
+          "date": "2026-08-06",
+          "localizedDescription": "- El número local se completa con el código de país de la INSTANCIA de WhatsApp conectada",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.5/Crona.ipa",
+          "size": 5331075,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.5.4",
           "date": "2026-08-06",
           "localizedDescription": "chore(release): source.json v1.5.3 (tamaño real del IPA)",
