@@ -24,6 +24,22 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.9",
+          "date": "2026-08-06",
+          "localizedDescription": "Quitar cualquier parte del mensaje; envío de fotos grandes corregido (base64).",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.9/Crona.ipa",
+          "size": 5377155,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.5.8",
+          "date": "2026-08-06",
+          "localizedDescription": "Editor de plantillas idéntico al compositor (barra fija sobre el teclado).",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.8/Crona.ipa",
+          "size": 5375829,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.5.7",
           "date": "2026-08-06",
           "localizedDescription": "- Fotos: se endereza la orientación EXIF horneándola en los píxeles antes de subir",
