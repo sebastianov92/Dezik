@@ -24,6 +24,22 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.4",
+          "date": "2026-08-06",
+          "localizedDescription": "chore(release): source.json v1.5.3 (tamaño real del IPA)",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.4/Crona.ipa",
+          "size": 5328887,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.5.3",
+          "date": "2026-08-06",
+          "localizedDescription": "Al tocar Editar ahora se abre el mismo ComposeView que al crear: puedes añadir/quitar partes",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.5.3/Crona.ipa",
+          "size": 5327692,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.5.2",
           "date": "2026-08-05",
           "localizedDescription": "- Variables con chips: componente VariableChips reutilizable para insertar",
