@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.7.0",
+          "date": "2026-08-07",
+          "localizedDescription": "F5 — Primeros pasos, chats y editor",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.7.0/Crona.ipa",
+          "size": 5550946,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.6.4",
           "date": "2026-08-07",
           "localizedDescription": "Links de Google Maps que comparten un lugar",
