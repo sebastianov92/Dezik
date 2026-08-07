@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.8.1",
+          "date": "2026-08-07",
+          "localizedDescription": "Arreglos de creación de grupo",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.8.1/Crona.ipa",
+          "size": 5635894,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.8.0",
           "date": "2026-08-07",
           "localizedDescription": "F6 — Gestión de grupos",
