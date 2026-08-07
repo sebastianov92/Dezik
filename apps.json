@@ -24,11 +24,19 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.6.2",
+          "date": "2026-08-07",
+          "localizedDescription": "Ajustes al adjuntar ubicación y contacto",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.6.2/Crona.ipa",
+          "size": 5491310,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.6.1",
           "date": "2026-08-07",
           "localizedDescription": "App:",
           "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.6.1/Crona.ipa",
-          "size": 5463410,
+          "size": 5476783,
           "minOSVersion": "16.0"
         },
         {
