@@ -24,6 +24,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.8.3",
+          "date": "2026-08-07",
+          "localizedDescription": "Arreglos al crear grupo",
+          "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.8.3/Crona.ipa",
+          "size": 5656486,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.8.2",
           "date": "2026-08-07",
           "localizedDescription": "Editor de grupo mejorado",
