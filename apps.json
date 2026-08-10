@@ -8,8 +8,7 @@
   "website": "https://dezik.app",
   "tintColor": "F22539",
   "featuredApps": [
-    "com.dezik.crona",
-    "com.dezik.asista"
+    "com.dezik.crona"
   ],
   "apps": [
     {
@@ -485,43 +484,6 @@
           "localizedDescription": "**Full Changelog**: https://github.com/sebastianov92/crona/commits/v1.0.0",
           "downloadURL": "https://github.com/sebastianov92/crona/releases/download/v1.0.0/Crona.ipa",
           "size": 7215447,
-          "minOSVersion": "16.0"
-        }
-      ]
-    },
-    {
-      "name": "Asista",
-      "bundleIdentifier": "com.dezik.asista",
-      "developerName": "Dezik",
-      "subtitle": "Reclamos de seguros médicos, local-first.",
-      "localizedDescription": "Asista gestiona reclamos de seguros médicos de forma local en tu dispositivo: formularios, reportes CSV/ZIP y envío por correo. Sin servidores intermedios.",
-      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps/asista/icon.png",
-      "tintColor": "F22539",
-      "category": "productivity",
-      "screenshotURLs": [],
-      "versions": [
-        {
-          "version": "0.1.2",
-          "date": "2026-07-28",
-          "localizedDescription": "OCR de recetas detecta varios medicamentos con distintas notaciones de frecuencia (1-0-1, 2 veces por día, hrs/hs, cap/tab).",
-          "downloadURL": "https://github.com/sebastianov92/asista/releases/download/v0.1.2/Asista.ipa",
-          "size": 1470760,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.1.1",
-          "date": "2026-07-28",
-          "localizedDescription": "Corrección: botón para agregar más medicamentos en la pantalla de",
-          "downloadURL": "https://github.com/sebastianov92/asista/releases/download/v0.1.1/Asista.ipa",
-          "size": 1469072,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.1.0",
-          "date": "2026-07-28",
-          "localizedDescription": "- Escaneo de documentos (VisionKit) → PDFs livianos y bien nombrados.",
-          "downloadURL": "https://github.com/sebastianov92/asista/releases/download/v0.1.0/Asista.ipa",
-          "size": 1469101,
           "minOSVersion": "16.0"
         }
       ]

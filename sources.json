@@ -7,7 +7,7 @@
   "headerURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/assets/icon.png",
   "website": "https://dezik.app",
   "tintColor": "F22539",
-  "featuredApps": ["com.dezik.crona", "com.dezik.asista"],
+  "featuredApps": ["com.dezik.crona"],
   "apps": [
     {
       "name": "Crona",
@@ -28,28 +28,6 @@
         "date": "2026-07-28",
         "localizedDescription": "Aún sin release publicado. Publica un GitHub Release en sebastianov92/Crona con el .ipa y tag crona-x.y.z.",
         "downloadURL": "https://github.com/sebastianov92/Crona/releases",
-        "size": 0
-      }
-    },
-    {
-      "name": "Asista",
-      "bundleIdentifier": "com.dezik.asista",
-      "developerName": "Dezik",
-      "subtitle": "Reclamos de seguros médicos, local-first.",
-      "localizedDescription": "Asista gestiona reclamos de seguros médicos de forma local en tu dispositivo: formularios, reportes CSV/ZIP y envío por correo. Sin servidores intermedios.",
-      "iconURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/apps/asista/icon.png",
-      "tintColor": "F22539",
-      "category": "productivity",
-      "minOSVersion": "16.0",
-      "screenshotURLs": [],
-      "repo": "sebastianov92/Asista",
-      "tagPrefix": "asista-",
-      "assetPattern": "\\.ipa$",
-      "fallbackVersion": {
-        "version": "1.0.0",
-        "date": "2026-07-28",
-        "localizedDescription": "Aún sin release publicado.",
-        "downloadURL": "https://github.com/sebastianov92/Asista/releases",
         "size": 0
       }
     }
