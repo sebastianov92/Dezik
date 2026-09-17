@@ -7,11 +7,11 @@
   "headerURL": "https://raw.githubusercontent.com/sebastianov92/Dezik/main/assets/icon.png",
   "website": "https://dezik.app",
   "tintColor": "F22539",
-  "featuredApps": ["com.dezik.crona"],
+  "featuredApps": ["com.sebastianov.crona"],
   "apps": [
     {
       "name": "Crona",
-      "bundleIdentifier": "com.dezik.crona",
+      "bundleIdentifier": "com.sebastianov.crona",
       "developerName": "Dezik",
       "subtitle": "Programa mensajes de WhatsApp.",
       "localizedDescription": "Crona programa y automatiza mensajes de WhatsApp conectándose a tu backend. Cliente iOS del ecosistema Crona.",
